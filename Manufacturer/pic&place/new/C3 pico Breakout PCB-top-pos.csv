@@ -1,0 +1,13 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+J1,6.91214E+11,6.91214E+11,5.6575,29.94,-90,top
+J2,6.91214E+11,6.91214E+11,5.7375,16.05,-90,top
+J3,6.91214E+11,6.91214E+11,29.7775,42.98,180,top
+J4,6.91214E+11,6.91214E+11,49.1075,17.03,90,top
+J5,6.91214E+11,6.91214E+11,48.7875,30.63,90,top
+J6,Conn_01x08_Pin,PinSocket_1x08_P2.54mm_Vertical,16.95,31.025,0,top
+J7,Conn_01x08_Pin,PinSocket_1x08_P2.54mm_Vertical,39.85,31.1,0,top
+R1,1MΩ ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,27.7175,33.615,180,top
+R2,1MΩ ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,13.325,17.45,90,top
+R3,1MΩ ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,13.4925,31.3275,90,top
+R5,1MΩ ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,34.0425,33.59,-90,top
+R6,1MΩ ,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,34.0425,17.64,180,top

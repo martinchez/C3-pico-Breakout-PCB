@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,JLCPCB Part #
+1M? ,">  R1-R3, R5, R6",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C327832
+Conn_01x08_Pin,">  J6, J7",Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical,C338701
+6.91214E+11,>  J1-J5,691214110003:691214110003,C9900017232

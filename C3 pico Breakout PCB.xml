@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\Anmart\projects\Hardwar Development\C3 pico Breakout PCB\C3 pico Breakout PCB.kicad_sch</source>
+    <date>6/11/2023 10:30:57 AM</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>C3 pico Breakout PCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>080b4296-3c06-4895-836d-855c449f1249</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33ade9c4-cdac-4675-ba29-b4511fdee5c8</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8a46733-8f5a-48d5-aa48-90ef929c39d9</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a757e6e-0d41-4744-81e9-cb87ea04579e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>691214110003</value>
+      <footprint>691214110003:691214110003</footprint>
+      <fields>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691214110003.pdf</field>
+        <field name="IR-UL">10A</field>
+        <field name="MOUNT">THT</field>
+        <field name="PART-NUMBER">691214110003</field>
+        <field name="PINS">3</field>
+        <field name="PITCH">3.5mm</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="WIRE">24 to 16 (AWG) 0.205 to 1.31 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+      </fields>
+      <libsource lib="691214110003" part="691214110003" description=""/>
+      <property name="WIRE" value="24 to 16 (AWG) 0.205 to 1.31 (mm²)"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="10A"/>
+      <property name="WORKING-VOLTAGE-UL" value="300V (AC)"/>
+      <property name="PINS" value="3"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691214110003.pdf"/>
+      <property name="PITCH" value="3.5mm"/>
+      <property name="PART-NUMBER" value="691214110003"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7c5235d-e5f8-4812-8fc6-117470989fc7</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>691214110003</value>
+      <footprint>691214110003:691214110003</footprint>
+      <fields>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691214110003.pdf</field>
+        <field name="IR-UL">10A</field>
+        <field name="MOUNT">THT</field>
+        <field name="PART-NUMBER">691214110003</field>
+        <field name="PINS">3</field>
+        <field name="PITCH">3.5mm</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="WIRE">24 to 16 (AWG) 0.205 to 1.31 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+      </fields>
+      <libsource lib="691214110003" part="691214110003" description=""/>
+      <property name="WIRE" value="24 to 16 (AWG) 0.205 to 1.31 (mm²)"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="10A"/>
+      <property name="WORKING-VOLTAGE-UL" value="300V (AC)"/>
+      <property name="PINS" value="3"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691214110003.pdf"/>
+      <property name="PITCH" value="3.5mm"/>
+      <property name="PART-NUMBER" value="691214110003"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd48496e-4a59-4994-935a-c0621cce028a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>691214110003</value>
+      <footprint>691214110003:691214110003</footprint>
+      <fields>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691214110003.pdf</field>
+        <field name="IR-UL">10A</field>
+        <field name="MOUNT">THT</field>
+        <field name="PART-NUMBER">691214110003</field>
+        <field name="PINS">3</field>
+        <field name="PITCH">3.5mm</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="WIRE">24 to 16 (AWG) 0.205 to 1.31 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+      </fields>
+      <libsource lib="691214110003" part="691214110003" description=""/>
+      <property name="WIRE" value="24 to 16 (AWG) 0.205 to 1.31 (mm²)"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="10A"/>
+      <property name="WORKING-VOLTAGE-UL" value="300V (AC)"/>
+      <property name="PINS" value="3"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691214110003.pdf"/>
+      <property name="PITCH" value="3.5mm"/>
+      <property name="PART-NUMBER" value="691214110003"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28ce48d4-8171-4936-ac81-da739b1d1b23</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>691214110003</value>
+      <footprint>691214110003:691214110003</footprint>
+      <fields>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691214110003.pdf</field>
+        <field name="IR-UL">10A</field>
+        <field name="MOUNT">THT</field>
+        <field name="PART-NUMBER">691214110003</field>
+        <field name="PINS">3</field>
+        <field name="PITCH">3.5mm</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="WIRE">24 to 16 (AWG) 0.205 to 1.31 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+      </fields>
+      <libsource lib="691214110003" part="691214110003" description=""/>
+      <property name="WIRE" value="24 to 16 (AWG) 0.205 to 1.31 (mm²)"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="10A"/>
+      <property name="WORKING-VOLTAGE-UL" value="300V (AC)"/>
+      <property name="PINS" value="3"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691214110003.pdf"/>
+      <property name="PITCH" value="3.5mm"/>
+      <property name="PART-NUMBER" value="691214110003"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>814d4579-263d-4525-8962-5b2bbc02f99b</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>691214110003</value>
+      <footprint>691214110003:691214110003</footprint>
+      <fields>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691214110003.pdf</field>
+        <field name="IR-UL">10A</field>
+        <field name="MOUNT">THT</field>
+        <field name="PART-NUMBER">691214110003</field>
+        <field name="PINS">3</field>
+        <field name="PITCH">3.5mm</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="WIRE">24 to 16 (AWG) 0.205 to 1.31 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+      </fields>
+      <libsource lib="691214110003" part="691214110003" description=""/>
+      <property name="WIRE" value="24 to 16 (AWG) 0.205 to 1.31 (mm²)"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="IR-UL" value="10A"/>
+      <property name="WORKING-VOLTAGE-UL" value="300V (AC)"/>
+      <property name="PINS" value="3"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691214110003.pdf"/>
+      <property name="PITCH" value="3.5mm"/>
+      <property name="PART-NUMBER" value="691214110003"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e17a5afa-cbae-4206-a964-974b8be80699</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1MΩ </value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aec295e2-97e3-45d1-90c5-6496e119eb93</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1MΩ </value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef111f0b-308e-4154-94a8-a146f9957aca</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1MΩ </value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b78c28f-aa11-48f4-88da-dd6f36571df6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1MΩ </value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35438419-5713-4c01-adf9-a902b5f29377</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1MΩ </value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>785804cf-5633-4d72-90be-2a422cc0a40e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>C3 Pico</value>
+      <footprint>c3 pico:c3 pico</footprint>
+      <libsource lib="c3_pico" part="C3_pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C3 pico Breakout PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68d5890f-2857-4820-a61c-6fc875e921c4</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="691214110003" part="691214110003">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">691214110003</field>
+        <field name="Footprint">691214110003</field>
+        <field name="WIRE">24 to 16 (AWG) 0.205 to 1.31 (mm²)</field>
+        <field name="MOUNT">THT</field>
+        <field name="IR-UL">10A</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+        <field name="PINS">3</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691214110003.pdf</field>
+        <field name="PITCH">3.5mm</field>
+        <field name="PART-NUMBER">691214110003</field>
+        <field name="TYPE">Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="c3_pico" part="C3_pico">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="0" name="A0" type="input"/>
+        <pin num="1" name="A1" type="input"/>
+        <pin num="2" name="A2" type="input"/>
+        <pin num="3" name="A3" type="input"/>
+        <pin num="3V" name="3V" type="input"/>
+        <pin num="4" name="A4" type="input"/>
+        <pin num="5" name="A5" type="input"/>
+        <pin num="6" name="6" type="input"/>
+        <pin num="7" name="RGBLED" type="input"/>
+        <pin num="8" name="SDA" type="input"/>
+        <pin num="10" name="SCL" type="input"/>
+        <pin num="20" name="RX" type="input"/>
+        <pin num="21" name="TX" type="input"/>
+        <pin num="EN" name="RST" type="input"/>
+        <pin num="GND" name="GND" type="input"/>
+        <pin num="V" name="VIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="691214110003">
+      <uri>E:\Anmart\projects\Hardwar Development\C3 pico Breakout PCB/Libraries/691214110003/691214110003.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="c3_pico">
+      <uri>E:\Anmart\projects\Hardwar Development\C3 pico Breakout PCB/Libraries/c3_pico.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="A0">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="0" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="2" name="A1">
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="J4" pin="3" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="3" name="A2">
+      <node ref="J5" pin="2" pintype="passive"/>
+      <node ref="J5" pin="3" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="4" name="A3">
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="J3" pin="3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="A3" pintype="input"/>
+    </net>
+    <net code="5" name="A4">
+      <node ref="U2" pin="4" pinfunction="A4" pintype="input"/>
+    </net>
+    <net code="6" name="A5">
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="A5" pintype="input"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="GND" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="8" name="unconnected-(U2-Pad3V)">
+      <node ref="U2" pin="3V" pinfunction="3V" pintype="input+no_connect"/>
+    </net>
+    <net code="9" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="6" pintype="input+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(U2-RGBLED-Pad7)">
+      <node ref="U2" pin="7" pinfunction="RGBLED" pintype="input+no_connect"/>
+    </net>
+    <net code="11" name="unconnected-(U2-RST-PadEN)">
+      <node ref="U2" pin="EN" pinfunction="RST" pintype="input+no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(U2-RX-Pad20)">
+      <node ref="U2" pin="20" pinfunction="RX" pintype="input+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(U2-SCL-Pad10)">
+      <node ref="U2" pin="10" pinfunction="SCL" pintype="input+no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(U2-SDA-Pad8)">
+      <node ref="U2" pin="8" pinfunction="SDA" pintype="input+no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(U2-TX-Pad21)">
+      <node ref="U2" pin="21" pinfunction="TX" pintype="input+no_connect"/>
+    </net>
+    <net code="16" name="unconnected-(U2-VIN-PadV)">
+      <node ref="U2" pin="V" pinfunction="VIN" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
